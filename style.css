@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz");
+
+
+
 body { background-image:url("http://4.bp.blogspot.com/-Q6g1zAweofk/VNLoo6gzQjI/AAAAAAAAARk/pS_AMJUWadY/s1600/Galaxy%2BViolet%2BWallpaper%2B2.jpg");
 background-size: cover;
 
@@ -5,7 +9,10 @@ background-size: cover;
 }
 h1{
   color:white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+
 }
 p{
   color:white;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
